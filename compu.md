@@ -7,12 +7,10 @@ https://www.corsair.com/es/es/carbide-275r-case
 
 ## Motherboard
 * https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-model/ **234.00**
-* https://www.asus.com/latin/Motherboards-Components/Motherboards/All-series/TUF-GAMING-X570-PLUS-WI-FI/techspec/ **234.00**
 
 ***
 
 ## CPU
-* AMD AM4 Ryzen 7 3700X **408.00**
 * AMD AM4 Ryzen 7 5800X **557.00**
 
 ***
